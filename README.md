@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=TimPreble&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **TimPreble/TimPreble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
